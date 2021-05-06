@@ -56,7 +56,7 @@ export default function Home() {
 
           <span className={styles.card}>
             <h3>Miyolophone</h3>
-            <p><s>Once</s> Always wrote an novel during Ludum Dare</p>
+            <p><s>Once</s> Always wrote an album during Ludum Dare</p>
           </span>
         </div>
       </main>
