@@ -28,7 +28,7 @@ export default function Home() {
             <p>Oh no, I'm stuck in a time loop... AGAIN AGAIN AGAIN AGAIN. Made for Ludum Dare 47.</p>
           </a>
 
-          <a href="https://ldjam.com/events/ludum-dare/47/good-morning-beautiful-world" className={styles.card}>
+          <a href="https://ldjam.com/events/ludum-dare/46/will-of-the-wisp" className={styles.card}>
             <h3>Will of the Wisp</h3>
             <p>You are a dryad hero in a huge world! For Ludum Dare 46 standards, anyways.</p>
           </a>
@@ -56,7 +56,7 @@ export default function Home() {
 
           <span className={styles.card}>
             <h3>Miyolophone</h3>
-            <p><s>Once</s> Always wrote an album novel during Ludum Dare</p>
+            <p><s>Once</s> Always wrote an novel during Ludum Dare</p>
           </span>
         </div>
       </main>
